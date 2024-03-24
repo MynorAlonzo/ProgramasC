@@ -1,0 +1,13 @@
+Seccion		   A		    B			C	
+Matematicas	  Juan Carlos	    Milton Perez	Moises Paredes
+Idioma 	  	  Carlos Juan	    Juana Lopez		Tronchatoro
+Ciencias	  Patricia Pixtun   Alvaro Castillo	Mirna Lovato
+Sociales	  Elsa Garcia 	    Giovani Meza	Mynor Lopez
+Musica		  Katherine  Lop    Gabriela Leon	Estefany Cruz
+Ingles		  Shirley Vazquez   Onik Perez		Cesar Garcia
+Computacion   	  Fernando Lop	    Isarchar Perz	Kenneth Por
+
+
+
+
+

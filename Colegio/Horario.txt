@@ -1,0 +1,13 @@
+|    Horario   |  |    Lunes     |      |   Martes     |     |   Miercoles    |  |   Jueves      |    |    Viernes   |
+
+  07:00 a 07:45	     Matematicas           Edu.Fisica           Matematicas        Matematicas  	Matematicas 
+  07:45 a 08:30	     Idioma                Matematicas          Idioma             Idioma               Idioma
+  
+  08:30 a 09:15	     Ciencias              Idioma               Ciencias           Ciencias             Ciencias  
+  09:15 a 10:00	     Sociales              Ciencias             Sociales           Sociales             Sociales 
+ 
+  10:00 a 10:45	     Art.Plast             Sociales             Art.Plast          Art.Plast            Art.Plast 
+  10:45 a 11:30	     Art.Indus             Art.Plast            Art.Indus          Art.Indus            Art.Indus 
+
+  11:30 a 12:15	     Musica                Art.Indus            Musica             Musica               Musica  
+  12:15 a 13:00	     Computacion           Musica               Computacion        Computacion          Computacion 

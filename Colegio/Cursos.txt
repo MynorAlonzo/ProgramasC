@@ -1,0 +1,13 @@
+	Curso			Tareas		Examen 1	Examen	2	Examen 3	Final		total
+Matematicas			20		10		15		20		35		100
+Idioma				20		10		15		20		35		100
+Computacion			20		10		15		20		35		100
+Artes Plasticas 		20		10		15		20		35		100
+Artes Industriales		20		10		15		20		35		100
+Ciencias			20		10		15		20		35		100
+Sociales			20		10		15		20		35		100
+Musica				20		10		15		20		35		100
+Ingles				20		10		15		20		35		100
+
+
+				
